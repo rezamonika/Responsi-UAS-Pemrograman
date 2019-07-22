@@ -14,7 +14,7 @@ namespace ProjectProduk
 
         static void Main(string[] args)
         {
-            Console.Title = "Responsi UAS Matakuliah Pemrograman";
+            Console.Title = "Responsi UAS MatakuliahPemrograman";
 
             while (true)
             {
